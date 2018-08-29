@@ -2,7 +2,7 @@
 
 This code is to investigate the role of NCX and RyR activity in EAD formation in LQT2 myocytes, described in:
 
-* Zhong, M., Rees, C.M., Terentyev, D., Choi, B.-R., Koren, G., and Karma, A. NCX-Mediated Subcellular Ca2D Dynamics Underlying Early Afterdepolarizations in LQT2 Cardiomyocytes. Biophysical Journal (2018)
+* Zhong, M., Rees, C.M., Terentyev, D., Choi, B.-R., Koren, G., and Karma, A. (2018) NCX-Mediated Subcellular Ca2D Dynamics Underlying Early Afterdepolarizations in LQT2 Cardiomyocytes. Biophysical Journal 
 
 This code is based on an earlier implementation of a similar model described in:
 
