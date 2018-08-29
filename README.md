@@ -1,4 +1,4 @@
-# NCX-mediated-EADs-via-RyR
+# NCX-mediated-EADs-in-LQT2
 
 This code is to investigate the role of NCX and RyR activity in EAD formation in LQT2 myocytes, described in:
 
