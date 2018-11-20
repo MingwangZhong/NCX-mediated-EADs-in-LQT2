@@ -1,3 +1,34 @@
+/*---------------------------------------------------------------
+
+	This code is only for NVIDIA GPU.
+
+*--------------------------------------------------------------- */
+
+
+/*---------------------------------------------------------------
+*
+* This code is based on the original Restrepo model, and is modified
+* by CIRCS group of Northeastern University.
+*
+* Contact Information:
+* 
+* Center for interdisciplinary research on complex systems
+* Departments of Physics, Northeastern University
+* 
+* Alain Karma		a.karma (at) northeastern.edu
+* Mingwang Zhong	mingwang.zhong (at) gmail.com
+*
+* The code was used to reproduce simulations in 
+* Zhong, Mingwang, et al. "NCX-mediated subcellular Ca2+ dynamics 
+* underlying early afterdepolarizations in LQT2 cardiomyocytes." 
+* Biophysical journal 115.6 (2018): 1019-1032.
+* 
+* The original Restrepo model:
+* Restrepo, Juan G., James N. Weiss, and Alain Karma. "Calsequestrin-
+* mediated mechanism for cellular calcium transient alternans." 
+* Biophysical journal 95.8 (2008): 3767-3789.
+*--------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
