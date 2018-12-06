@@ -13,9 +13,10 @@ This software is free software, distributed under the 2-clause BSD license. A co
 
 ## Implementation
 
-For a running with 15 beats and pacing cycle length 4 s, 2 hours are needed on GeForce GTX TITAN. Another c language version of this code is also provided under the folder `cVersion/`. The c language version is around 20 times slower than the CUDA version.
+For a simulation with 15 beats and pacing cycle length 4 s, the running time is ~2 hours on GeForce GTX TITAN. Another c language version of this code is also provided under the folder `cVersion/`, which is around 20 times slower than the CUDA version.
 
 **Compile the code**
+
 ```
 nvcc cell.cu -O3 -lm -arch sm_30  -o cell -w
 ```
