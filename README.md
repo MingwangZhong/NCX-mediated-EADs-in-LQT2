@@ -1,4 +1,4 @@
-# NCX mediated EADs in LQT2
+# NCX mediated EADs in LQT2 cardiomyocytes
 
 This code is to investigate the role of NCX and RyR activity in EAD formation in LQT2 myocytes, described in Ref. 1. Specifically, this code could produce the exact result in Fig. 3 D.
 
