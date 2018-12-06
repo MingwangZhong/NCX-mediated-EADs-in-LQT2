@@ -17,7 +17,7 @@ For a simulation with 15 beats and pacing cycle length 4 s, the running time is 
 
 **Compile the code**
 
-```
+```bash
 nvcc cell.cu -O3 -lm -arch sm_30  -o cell -w
 ```
 
