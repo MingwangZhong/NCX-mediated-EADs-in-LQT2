@@ -1,6 +1,6 @@
 # NCX mediated EADs in LQT2
 
-This code is to investigate the role of NCX and RyR activity in EAD formation in LQT2 myocytes, described in Ref.1. Specifically, this code could produce the exact result in Fig. 3 D. Another c language version of this code is also provided under the folder `cVersion/`.
+This code is to investigate the role of NCX and RyR activity in EAD formation in LQT2 myocytes, described in Ref. 1. Specifically, this code could produce the exact result in Fig. 3 D. Another c language version of this code is also provided under the folder `cVersion/`.
 
 1. Zhong, Mingwang, Colin M. Rees, Dmitry Terentyev, Bum-Rak Choi, Gideon Koren, and Alain Karma. "NCX-mediated subcellular Ca2+ dynamics underlying early afterdepolarizations in LQT2 cardiomyocytes." *Biophysical journal* 115, no. 6 (2018): 1019-1032. 
 
