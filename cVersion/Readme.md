@@ -1,3 +1,5 @@
+This c language version code is around 20 times slower than the CUDA versioin.
+
 ## Compile
 ```
 gcc cell.c -o cell -lm
