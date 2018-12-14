@@ -40,3 +40,9 @@ The data are in the folder `Data_and_Image`. The membrane voltage, Ca<sup>2+</su
 
 
 ![Alt text](Figure.pdf)
+
+
+![Alt text](Figure.eps)
+
+
+![Alt text](Figure.svg)
