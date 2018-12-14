@@ -32,3 +32,7 @@ For the hyperactive RyRs
 ```
 ./cell   0   .txt   10.0   400   4  2.52   3.125   0.64  2.5   6   0
 ```
+
+## Results
+The data are in the folder `Data_and_Image`. The membrane voltage, Ca<sup>2+</sup> transient, and sarcoplasmic reticulum load are shown below:
+![Alt text](Data_and_Image/Figure.pdf)
