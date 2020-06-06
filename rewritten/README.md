@@ -1,4 +1,4 @@
-This code is much cleaner. For example, all the transitions of RyR from one state to another are handled by a simple function ```number_RyR_transit``` without any cut-off anymore. It produces the same results as the original code.
+This code is much cleaner. For example, all the transitions of RyR from one state to another are handled by a simple function ```number_RyR_transit``` without any cut-off. It produces the same results as the original code.
 
 **Compile the code**
 
