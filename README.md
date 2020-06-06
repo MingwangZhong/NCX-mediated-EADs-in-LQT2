@@ -39,4 +39,4 @@ The data are in the folder `Data_and_Image`. The membrane voltage, Ca<sup>2+</su
 ![Alt text](Data_and_Image/result.svg)
 
 ## Update
-The new version of the code is in ```rewritten/```. The new code is cleaner and produces the same result.
+The new version of the code is in ```rewritten/```. The new code is much cleaner and produces the same result.
