@@ -18,4 +18,4 @@ nvcc cell_hyper.cu -O3 -lm -arch sm_30  -o cell -w
 ```
 
 ## Results
-![Alt text](Figure.svg)
+![Alt text](result.svg)
